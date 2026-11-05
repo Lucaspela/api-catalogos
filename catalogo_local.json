@@ -1,0 +1,246 @@
+{
+  "lenguajes": [
+    {
+      "id": 43,
+      "nombre": "Bash"
+    },
+    {
+      "id": 5,
+      "nombre": "C#"
+    },
+    {
+      "id": 6,
+      "nombre": "C++"
+    },
+    {
+      "id": 40,
+      "nombre": "Dart"
+    },
+    {
+      "id": 39,
+      "nombre": "Elixir"
+    },
+    {
+      "id": 8,
+      "nombre": "Go"
+    },
+    {
+      "id": 44,
+      "nombre": "Haskell"
+    },
+    {
+      "id": 4,
+      "nombre": "Java"
+    },
+    {
+      "id": 2,
+      "nombre": "JavaScript"
+    },
+    {
+      "id": 10,
+      "nombre": "Kotlin"
+    },
+    {
+      "id": 41,
+      "nombre": "Lua"
+    },
+    {
+      "id": 7,
+      "nombre": "PHP"
+    },
+    {
+      "id": 1,
+      "nombre": "Python"
+    },
+    {
+      "id": 42,
+      "nombre": "R"
+    },
+    {
+      "id": 9,
+      "nombre": "Ruby"
+    },
+    {
+      "id": 37,
+      "nombre": "Rust"
+    },
+    {
+      "id": 12,
+      "nombre": "SQL"
+    },
+    {
+      "id": 38,
+      "nombre": "Scala"
+    },
+    {
+      "id": 11,
+      "nombre": "Swift"
+    },
+    {
+      "id": 3,
+      "nombre": "TypeScript"
+    }
+  ],
+  "tecnologias": [
+    {
+      "categoria": "framework",
+      "id": 48,
+      "nombre": ".NET Core"
+    },
+    {
+      "categoria": "framework",
+      "id": 3,
+      "nombre": "Angular"
+    },
+    {
+      "categoria": "herramienta",
+      "id": 17,
+      "nombre": "Bruno"
+    },
+    {
+      "categoria": "base de datos",
+      "id": 55,
+      "nombre": "Cassandra"
+    },
+    {
+      "categoria": "framework",
+      "id": 5,
+      "nombre": "Django"
+    },
+    {
+      "categoria": "herramienta",
+      "id": 15,
+      "nombre": "Docker"
+    },
+    {
+      "categoria": "base de datos",
+      "id": 56,
+      "nombre": "DynamoDB"
+    },
+    {
+      "categoria": "framework",
+      "id": 8,
+      "nombre": "Express"
+    },
+    {
+      "categoria": "framework",
+      "id": 45,
+      "nombre": "FastAPI"
+    },
+    {
+      "categoria": "herramienta",
+      "id": 18,
+      "nombre": "Figma"
+    },
+    {
+      "categoria": "framework",
+      "id": 4,
+      "nombre": "Flask"
+    },
+    {
+      "categoria": "herramienta",
+      "id": 14,
+      "nombre": "Git"
+    },
+    {
+      "categoria": "herramienta",
+      "id": 68,
+      "nombre": "GitHub Actions"
+    },
+    {
+      "categoria": "herramienta",
+      "id": 66,
+      "nombre": "Jenkins"
+    },
+    {
+      "categoria": "herramienta",
+      "id": 65,
+      "nombre": "Kubernetes"
+    },
+    {
+      "categoria": "framework",
+      "id": 46,
+      "nombre": "Laravel"
+    },
+    {
+      "categoria": "base de datos",
+      "id": 58,
+      "nombre": "MariaDB"
+    },
+    {
+      "categoria": "base de datos",
+      "id": 11,
+      "nombre": "MongoDB"
+    },
+    {
+      "categoria": "base de datos",
+      "id": 10,
+      "nombre": "MySQL"
+    },
+    {
+      "categoria": "base de datos",
+      "id": 59,
+      "nombre": "Neo4j"
+    },
+    {
+      "categoria": "framework",
+      "id": 47,
+      "nombre": "Next.js"
+    },
+    {
+      "categoria": "framework",
+      "id": 7,
+      "nombre": "Node.js"
+    },
+    {
+      "categoria": "base de datos",
+      "id": 57,
+      "nombre": "Oracle"
+    },
+    {
+      "categoria": "base de datos",
+      "id": 9,
+      "nombre": "PostgreSQL"
+    },
+    {
+      "categoria": "herramienta",
+      "id": 16,
+      "nombre": "Postman"
+    },
+    {
+      "categoria": "framework",
+      "id": 1,
+      "nombre": "React"
+    },
+    {
+      "categoria": "base de datos",
+      "id": 13,
+      "nombre": "Redis"
+    },
+    {
+      "categoria": "framework",
+      "id": 49,
+      "nombre": "Ruby on Rails"
+    },
+    {
+      "categoria": "base de datos",
+      "id": 12,
+      "nombre": "SQLite"
+    },
+    {
+      "categoria": "framework",
+      "id": 6,
+      "nombre": "Spring Boot"
+    },
+    {
+      "categoria": "herramienta",
+      "id": 67,
+      "nombre": "Vite"
+    },
+    {
+      "categoria": "framework",
+      "id": 2,
+      "nombre": "Vue.js"
+    }
+  ]
+}
